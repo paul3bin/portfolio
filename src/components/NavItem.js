@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-
 class Navitem extends Component {
   render() {
     return (
@@ -15,5 +14,4 @@ class Navitem extends Component {
     );
   }
 }
-
 export default Navitem;
