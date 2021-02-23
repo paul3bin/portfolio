@@ -40,4 +40,14 @@ thumb
 sketch
 
 ### Images ###
-*.jpg
+IMG_20180701_131632_HDR.jpg
+
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
