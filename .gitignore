@@ -51,3 +51,4 @@ IMG_20180701_131632_HDR.jpg
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
+firebase.json
