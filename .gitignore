@@ -52,3 +52,5 @@ IMG_20180701_131632_HDR.jpg
 .runtimeconfig.json
 .firebase/
 firebase.json
+
+*.pdf
