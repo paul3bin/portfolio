@@ -95,6 +95,26 @@ p {
 .social i:hover {
   color: rgb(121, 0, 36);
 }
+
+.resume {
+  position: relative;
+  margin-top: 20px;
+  display: flex;
+  left: 0;
+  justify-content: space-around;
+  bottom: 0px;
+}
+.resume i {
+  font-size: 25px;
+  color: #9a9b9c;
+  margin-top: 10px;
+  position: absolute;
+  left: 0px;
+}
+.resume i:hover {
+  color: rgb(121, 0, 36);
+}
+
 .card {
   /* margin: 30px 0px 30px 0px; */
   width: 18rem;
@@ -147,6 +167,20 @@ p {
   }
   .social i {
     padding-right: 0px;
+  }
+  .resume {
+    left: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    bottom: 0px;
+    position: relative;
+  }
+  .resume i {
+    margin-top: 10px;
+    position: absolute;
+    font-size: 20px;
+    left: 0;
   }
 }
 
