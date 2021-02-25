@@ -6,6 +6,8 @@ import Navbar from "./components/Navbar";
 
 import Home from "./contents/Home";
 import About from "./contents/About";
+import Projects from "./contents/Projects";
+import Contact from "./contents/Contact";
 
 function App() {
   return (
@@ -17,6 +19,12 @@ function App() {
         </Route>
         <Route exact path="/about">
           <About />
+        </Route>
+        <Route exact path="/projects">
+          <Projects />
+        </Route>
+        <Route exact path="/contact">
+          <Contact />
         </Route>
       </div>
     </Router>
