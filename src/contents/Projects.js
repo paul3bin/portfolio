@@ -28,7 +28,7 @@ class Projects extends Component {
           <div className="col">
             <Cards
               title="Battle of Neighborhoods"
-              description="The scope of this project will be to provide a list of good restaurants based on serves cuisine, affordability and reviews."
+              description="The scope of this project will be to provide a list of good restaurants based on cuisine, affordability and reviews."
               link="https://github.com/paul3bin/Coursera_Capstone/blob/master/Battle_of_Neighborhoods_Project.ipynb"
               link_content="Jupyter Notebook"
             />
