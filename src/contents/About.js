@@ -31,7 +31,7 @@ class About extends Component {
           <ul>
             <li>
               B.Tech in Computer Science and Engineering at Karunya Institute of
-              Technology and Sciences, Coimbatore, Tamil Nadu
+              Technology and Sciences, Coimbatore, Tamil Nadu (Jul'14 - Jun'18)
             </li>
           </ul>
         </p>
