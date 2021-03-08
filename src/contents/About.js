@@ -10,8 +10,9 @@ class About extends Component {
         <h4>Hi,</h4>
         <h1>I'm Ebin Paul</h1>
         <h4>
-          Graduate in Computer Science and Engineering <br></br> and I'm
-          interested in <u>Web Development</u> and <u>Data Science</u>.
+          Graduate in Computer Science and Engineering. <br></br> I love{" "}
+          <u>coding</u>, technology, <u>Web Development</u> and{" "}
+          <u>Data Science</u>.
         </h4>
         <br></br>
         <p>
