@@ -11,17 +11,25 @@ class Projects extends Component {
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
             <Cards
-              title="Connect Four Game"
-              description="The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game is built using HTML, CSS and JavaScript."
-              link="https://paul3bin.github.io/Connect-Four-Game/"
+              title="To-Do Web Application"
+              description="A to-do web app using Django, Django REST Framework and ReactJS with user registration and login using token authentication."
+              link="https://to-do-application-c9aea.web.app/"
               link_content="Live Site"
             />
           </div>
           <div className="col">
             <Cards
-              title="To-Do Web Application"
-              description="A to-do web app using Django, Django REST Framework and ReactJS with user registration and login using token authentication."
-              link="https://to-do-application-c9aea.web.app/"
+              title="SP500 Companies Stock Market Analysis"
+              description="A streamlit web-application for stock market analysis of SP500 companies. This project involves web-scraping and data visualization."
+              link="https://sp500-stock-market-analysis.herokuapp.com/"
+              link_content="Live Site"
+            />
+          </div>
+          <div className="col">
+            <Cards
+              title="Connect Four Game"
+              description="The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game is built using HTML, CSS and JavaScript."
+              link="https://paul3bin.github.io/Connect-Four-Game/"
               link_content="Live Site"
             />
           </div>
