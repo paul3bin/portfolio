@@ -19,11 +19,7 @@ class About extends Component {
           <b>Work Experience: </b>
           <ul>
             <li>
-              System Engineer Trainee at Infosys Ltd, Mysore, Karnataka (Nov'18
-              - Mar'19)
-            </li>
-            <li>
-              System Engineer at Infosys Ltd, Pune, Maharashtra (Mar'19 -
+              System Engineer at Infosys Ltd, Pune, Maharashtra (Nov'18 -
               Mar'20)
             </li>
           </ul>
