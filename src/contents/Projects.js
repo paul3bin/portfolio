@@ -27,6 +27,14 @@ class Projects extends Component {
           </div>
           <div className="col">
             <Cards
+              title="Crypto Web-App"
+              description="A web-application that encrypts and decrypts text using various algorithms like vignere, running key etc."
+              link="https://cryptography-io.web.app/"
+              link_content="Live Site"
+            />
+          </div>
+          <div className="col">
+            <Cards
               title="Connect Four Game"
               description="The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game is built using HTML, CSS and JavaScript."
               link="https://paul3bin.github.io/Connect-Four-Game/"
