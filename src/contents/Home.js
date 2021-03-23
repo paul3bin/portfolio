@@ -1,4 +1,3 @@
-import react from "react";
 import React, { Component } from "react";
 import ReactTypingEffect from "react-typing-effect";
 import profilePhoto from "../images/IMG_20180701_131632_HDR.jpg";
