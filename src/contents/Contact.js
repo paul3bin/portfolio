@@ -6,10 +6,12 @@ class Contact extends Component {
   render() {
     document.title = "Ebin Paul | Contact";
     return (
-      <div className="condiv">
+      <div className="container">
         <h1 className="subtopic">Contact</h1>
         <h3>Email : ebinpaul@outlook.com</h3>
-        <Social />
+        <div className="position-absolute bottom-0 start-50 translate-middle-x social-pos">
+          <Social />
+        </div>
       </div>
     );
   }
