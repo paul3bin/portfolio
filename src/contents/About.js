@@ -6,7 +6,7 @@ class About extends Component {
   render() {
     document.title = "Ebin Paul | About";
     return (
-      <div className="condiv">
+      <div className="container justify-content-center">
         <h4>Hi,</h4>
         <h1>I'm Ebin Paul</h1>
         <h4>
