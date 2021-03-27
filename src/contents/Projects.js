@@ -6,7 +6,7 @@ class Projects extends Component {
   render() {
     document.title = "Ebin Paul | Projects";
     return (
-      <div className="condiv">
+      <div className="container">
         <h1 className="subtopic">Projects</h1>
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
