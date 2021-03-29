@@ -51,18 +51,18 @@ a:link {
 
 .resume {
   position: relative;
-  margin-top: 20px;
-  display: flex;
-  left: 0;
-  justify-content: space-around;
-  bottom: 0px;
+  margin-bottom: 20px;
+  /* display: flex; */
+  /* left: 0; */
+  /* justify-content: space-around; */
+  /* bottom: 0px; */
 }
 .resume i {
   font-size: 25px;
   color: #9a9b9c;
-  margin-top: 10px;
-  position: absolute;
-  left: 0px;
+  /* margin-top: 10px; */
+  /* position: absolute; */
+  /* left: 0px; */
 }
 .resume i:hover {
   color: rgb(121, 0, 36);
