@@ -11,14 +11,6 @@ class Projects extends Component {
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
             <Cards
-              title="To-Do Web Application"
-              description="A to-do web app using Django, Django REST Framework and ReactJS with user registration and login using token authentication."
-              link="https://to-do-application-c9aea.web.app/"
-              link_content="Live Site"
-            />
-          </div>
-          <div className="col">
-            <Cards
               title="SP500 Companies Stock Market Analysis"
               description="A streamlit web-application for stock market analysis of SP500 companies. This project involves web-scraping and data visualization."
               link="https://sp500-stock-market-analysis.herokuapp.com/"
@@ -27,17 +19,17 @@ class Projects extends Component {
           </div>
           <div className="col">
             <Cards
-              title="Crypto Web-App"
-              description="A web-application that encrypts and decrypts text using various algorithms like vignere, running key etc."
-              link="https://cryptography-io.web.app/"
+              title="To-Do Web Application"
+              description="A to-do web app using Django, Django REST Framework and ReactJS with user registration and login using token authentication."
+              link="https://to-do-application-c9aea.web.app/"
               link_content="Live Site"
             />
           </div>
           <div className="col">
             <Cards
-              title="Connect Four Game"
-              description="The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game is built using HTML, CSS and JavaScript."
-              link="https://paul3bin.github.io/Connect-Four-Game/"
+              title="Crypto Web-App"
+              description="A web-application that encrypts and decrypts text using various algorithms like vignere, running key etc."
+              link="https://cryptography-io.web.app/"
               link_content="Live Site"
             />
           </div>
@@ -63,6 +55,14 @@ class Projects extends Component {
               description="This is project based on challenges for the titanic dataset on kaggle.com"
               link="https://github.com/paul3bin/titanic_dataScience/blob/master/Titanic_DataScience_Project.ipynb"
               link_content="Jupyter Notebook"
+            />
+          </div>
+          <div className="col">
+            <Cards
+              title="Connect Four Game"
+              description="The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. The game is built using HTML, CSS and JavaScript."
+              link="https://paul3bin.github.io/Connect-Four-Game/"
+              link_content="Live Site"
             />
           </div>
         </div>
