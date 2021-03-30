@@ -7,9 +7,22 @@ class Cards extends Component {
         <div class="card-body">
           <h5 class="card-title">{this.props.title}</h5>
           <p class="card-text">{this.props.description}</p>
-          <a href={this.props.link} class="btn btn-primary" target="_blank">
-            {this.props.link_content}
-          </a>
+          <div className="d-flex justify-content-evenly">
+            <a
+              href={this.props.link}
+              class="btn btn-outline-primary"
+              target="_blank"
+            >
+              Live Project
+            </a>
+            <a
+              href={this.props.github}
+              class="btn btn-outline-dark"
+              target="_blank"
+            >
+              GitHub-Repo
+            </a>
+          </div>
         </div>
       </div>
     );
