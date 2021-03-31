@@ -14,9 +14,9 @@ class Home extends Component {
         <div className="position-absolute top-50 start-50 translate-middle type-pos">
           <ReactTypingEffect
             className="typingeffect fs-1"
-            text={["Hi, I am Ebin Paul", "I love building Web-Apps!"]}
-            speed={100}
-            eraseDelay={700}
+            text={["Hi, I am Ebin Paul!", "I love building web-apps!"]}
+            speed={130}
+            eraseDelay={380}
           />
         </div>
         <div className="position-absolute bottom-0 start-50 translate-middle-x social-pos">
