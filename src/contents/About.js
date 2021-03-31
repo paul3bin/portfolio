@@ -12,7 +12,7 @@ class About extends Component {
           <h1>I'm Ebin Paul</h1>
           <h5>
             Graduate in Computer Science and Engineering. <br></br> I love{" "}
-            Technology, Web Development and Data Science.
+            Technology, Web Development and Data Analytics.
           </h5>
           <br></br>
           <p>
