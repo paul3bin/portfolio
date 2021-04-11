@@ -12,7 +12,7 @@ class Projects extends Component {
           <div className="col">
             <Cards
               title="Object Detection from Image"
-              description="A streamlit web-application for stock market analysis of SP500 companies. This project involves web-scraping and data visualization."
+              description="A Flask API for identifying objects found in a given image using ImageAI."
               link="#"
               github="https://github.com/paul3bin/object_detection_api"
             />
