@@ -11,6 +11,14 @@ class Projects extends Component {
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
             <Cards
+              title="Object Detection from Image"
+              description="A streamlit web-application for stock market analysis of SP500 companies. This project involves web-scraping and data visualization."
+              link="#"
+              github="https://github.com/paul3bin/object_detection_api"
+            />
+          </div>
+          <div className="col">
+            <Cards
               title="SP500 Companies Stock Market Analysis"
               description="A streamlit web-application for stock market analysis of SP500 companies. This project involves web-scraping and data visualization."
               link="https://sp500-stock-market-analysis.herokuapp.com/"
