@@ -11,6 +11,14 @@ class Projects extends Component {
         <div className="row row-cols-1 row-cols-md-3 g-4">
           <div className="col">
             <Cards
+              title="Notes Web-App"
+              description="A web-app designed for creating, updating and deleting Notes along with a build-in text editor."
+              link="https://take-notes-web-app.web.app/"
+              github="https://github.com/paul3bin/notes-web-app"
+            />
+          </div>
+          <div className="col">
+            <Cards
               title="Object Detection from Image"
               description="A Flask API for identifying objects found in a given image using ImageAI."
               link="#"
